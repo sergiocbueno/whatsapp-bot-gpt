@@ -2,7 +2,7 @@
   "name": "whatsapp-bot-gpt",
   "version": "1.0.0",
   "description": "WhatsApp Bot integrated with GPT-3 built with NodeJS",
-  "main": "index.js",
+  "main": "src/server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

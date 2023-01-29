@@ -13,7 +13,7 @@ RUN npm install
 COPY .env ./
 
 # Copy application
-COPY index.js ./
+COPY src/ ./
 
 # Build solution with production mode
 RUN npm ci --only=production

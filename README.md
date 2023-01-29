@@ -24,7 +24,7 @@ WhatsApp Bot integrated with GPT-3 built with NodeJS
 ```
 3. After all (steps 1 and 2 above), you should see in your terminal (with logs) a QR Code to connect to the WhatsApp device you want as shown in the image below.
 
-![Test](https://user-images.githubusercontent.com/46008407/215285945-174ddce5-b855-4b4c-b2c3-8727af90db07.png)
+![QRCodeLog](https://user-images.githubusercontent.com/46008407/215285945-174ddce5-b855-4b4c-b2c3-8727af90db07.png)
 
 4. Finally, you will see a log message reporting the device was successfully connected. That's all! Have fun ;)
 
